@@ -1,5 +1,5 @@
 # A_A_winereviews
-An analysis of 130 wine reviews using Naive Bayes classifier and Vader Sentiment Analysis
+An analysis of 130k wine reviews using Naive Bayes classifier and Vader Sentiment Analysis
 
 Hi! Thank you for checking out my analysis of wine reviews from Wine Enthusiast Magazine (courtesy of Zack Thoutt's 2017 scrape of winemag.com).
 
